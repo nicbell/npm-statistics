@@ -2,7 +2,7 @@
   "name": "npm-statistics",
   "version": "1.0.0",
   "private": true,
-  "description": "NPM Download Statistics for DavidWells Open Source Projects",
+  "description": "NPM Download Statistics for NicBell Open Source Projects",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -23,7 +23,7 @@
     "markdown-magic": "^1.0.0",
     "markdown-table": "^1.1.3"
   },
-  "npm-stats": "davidwells",
+  "npm-stats": "nicbell",
   "dependencies": {
     "analytics": "^0.3.5",
     "npmtotal": "^1.4.0"
