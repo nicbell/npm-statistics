@@ -10,9 +10,9 @@ NPM Download Statistics for NicBell Open Source Projects. Updated Daily.
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                       | Downloads     |
 | -------------------------------------------------------------------------- | ------------- |
-| **Total**                                                                  | **2,332,528** |
-| [lite-ready](https://www.npmjs.com/package/lite-ready)                     | 2,176,073     |
-| [postscss](https://www.npmjs.com/package/postscss)                         | 89,981        |
+| **Total**                                                                  | **2,333,599** |
+| [lite-ready](https://www.npmjs.com/package/lite-ready)                     | 2,177,127     |
+| [postscss](https://www.npmjs.com/package/postscss)                         | 89,998        |
 | [grunt-shimly](https://www.npmjs.com/package/grunt-shimly)                 | 17,480        |
 | [shimly](https://www.npmjs.com/package/shimly)                             | 13,959        |
 | [attach.js](https://www.npmjs.com/package/attach.js)                       | 10,366        |
@@ -20,7 +20,7 @@ NPM Download Statistics for NicBell Open Source Projects. Updated Daily.
 | [utube](https://www.npmjs.com/package/utube)                               | 9,572         |
 | [daccord-validation](https://www.npmjs.com/package/daccord-validation)     | 3,720         |
 | [angular-scriptloader](https://www.npmjs.com/package/angular-scriptloader) | 1,289         |
-| **Total**                                                                  | **2,332,528** |
+| **Total**                                                                  | **2,333,599** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
