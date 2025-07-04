@@ -8,19 +8,13 @@ NPM Download Statistics for NicBell Open Source Projects. Updated Daily.
 
 <!-- Please do not modify this auto generated content -->
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
-| Name                                                                       | Downloads     |
-| -------------------------------------------------------------------------- | ------------- |
-| **Total**                                                                  | **2,423,526** |
-| [lite-ready](https://www.npmjs.com/package/lite-ready)                     | 2,265,458     |
-| [postscss](https://www.npmjs.com/package/postscss)                         | 91,065        |
-| [grunt-shimly](https://www.npmjs.com/package/grunt-shimly)                 | 17,529        |
-| [shimly](https://www.npmjs.com/package/shimly)                             | 14,000        |
-| [parsehtml](https://www.npmjs.com/package/parsehtml)                       | 10,406        |
-| [attach.js](https://www.npmjs.com/package/attach.js)                       | 10,389        |
-| [utube](https://www.npmjs.com/package/utube)                               | 9,591         |
-| [daccord-validation](https://www.npmjs.com/package/daccord-validation)     | 3,773         |
-| [angular-scriptloader](https://www.npmjs.com/package/angular-scriptloader) | 1,315         |
-| **Total**                                                                  | **2,423,526** |
+| Name                                                 | Downloads                                                                    |
+| ---------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **Total**                                            | **Internal Server Error/api/download-counts02,025-07-04T01:23:30.210+00:00** |
+| [error](https://www.npmjs.com/package/error)         | Internal Server Error                                                        |
+| [timestamp](https://www.npmjs.com/package/timestamp) | 2,025-07-04T01:23:30.210+00:00                                               |
+| [path](https://www.npmjs.com/package/path)           | /api/download-counts                                                         |
+| **Total**                                            | **Internal Server Error/api/download-counts02,025-07-04T01:23:30.210+00:00** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
