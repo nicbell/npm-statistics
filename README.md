@@ -10,17 +10,17 @@ NPM Download Statistics for NicBell Open Source Projects. Updated Daily.
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                       | Downloads     |
 | -------------------------------------------------------------------------- | ------------- |
-| **Total**                                                                  | **2,565,246** |
-| [lite-ready](https://www.npmjs.com/package/lite-ready)                     | 2,403,921     |
-| [postscss](https://www.npmjs.com/package/postscss)                         | 92,299        |
+| **Total**                                                                  | **2,566,217** |
+| [lite-ready](https://www.npmjs.com/package/lite-ready)                     | 2,404,861     |
+| [postscss](https://www.npmjs.com/package/postscss)                         | 92,311        |
 | [grunt-shimly](https://www.npmjs.com/package/grunt-shimly)                 | 17,725        |
 | [shimly](https://www.npmjs.com/package/shimly)                             | 14,123        |
-| [parsehtml](https://www.npmjs.com/package/parsehtml)                       | 11,896        |
-| [attach.js](https://www.npmjs.com/package/attach.js)                       | 10,425        |
+| [parsehtml](https://www.npmjs.com/package/parsehtml)                       | 11,911        |
+| [attach.js](https://www.npmjs.com/package/attach.js)                       | 10,428        |
 | [utube](https://www.npmjs.com/package/utube)                               | 9,646         |
 | [daccord-validation](https://www.npmjs.com/package/daccord-validation)     | 3,867         |
-| [angular-scriptloader](https://www.npmjs.com/package/angular-scriptloader) | 1,344         |
-| **Total**                                                                  | **2,565,246** |
+| [angular-scriptloader](https://www.npmjs.com/package/angular-scriptloader) | 1,345         |
+| **Total**                                                                  | **2,566,217** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
