@@ -10,17 +10,17 @@ NPM Download Statistics for NicBell Open Source Projects. Updated Daily.
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                       | Downloads     |
 | -------------------------------------------------------------------------- | ------------- |
-| **Total**                                                                  | **2,644,938** |
-| [lite-ready](https://www.npmjs.com/package/lite-ready)                     | 2,481,889     |
+| **Total**                                                                  | **2,645,532** |
+| [lite-ready](https://www.npmjs.com/package/lite-ready)                     | 2,482,474     |
 | [postscss](https://www.npmjs.com/package/postscss)                         | 92,981        |
 | [grunt-shimly](https://www.npmjs.com/package/grunt-shimly)                 | 17,765        |
 | [shimly](https://www.npmjs.com/package/shimly)                             | 14,177        |
-| [parsehtml](https://www.npmjs.com/package/parsehtml)                       | 12,771        |
+| [parsehtml](https://www.npmjs.com/package/parsehtml)                       | 12,778        |
 | [attach.js](https://www.npmjs.com/package/attach.js)                       | 10,438        |
 | [utube](https://www.npmjs.com/package/utube)                               | 9,666         |
-| [daccord-validation](https://www.npmjs.com/package/daccord-validation)     | 3,894         |
+| [daccord-validation](https://www.npmjs.com/package/daccord-validation)     | 3,896         |
 | [angular-scriptloader](https://www.npmjs.com/package/angular-scriptloader) | 1,357         |
-| **Total**                                                                  | **2,644,938** |
+| **Total**                                                                  | **2,645,532** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
