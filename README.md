@@ -10,17 +10,17 @@ NPM Download Statistics for NicBell Open Source Projects. Updated Daily.
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                       | Downloads     |
 | -------------------------------------------------------------------------- | ------------- |
-| **Total**                                                                  | **3,029,884** |
-| [lite-ready](https://www.npmjs.com/package/lite-ready)                     | 2,860,575     |
-| [postscss](https://www.npmjs.com/package/postscss)                         | 95,850        |
-| [grunt-shimly](https://www.npmjs.com/package/grunt-shimly)                 | 18,488        |
-| [shimly](https://www.npmjs.com/package/shimly)                             | 14,678        |
-| [parsehtml](https://www.npmjs.com/package/parsehtml)                       | 14,096        |
+| **Total**                                                                  | **3,031,664** |
+| [lite-ready](https://www.npmjs.com/package/lite-ready)                     | 2,862,265     |
+| [postscss](https://www.npmjs.com/package/postscss)                         | 95,868        |
+| [grunt-shimly](https://www.npmjs.com/package/grunt-shimly)                 | 18,523        |
+| [shimly](https://www.npmjs.com/package/shimly)                             | 14,688        |
+| [parsehtml](https://www.npmjs.com/package/parsehtml)                       | 14,103        |
 | [attach.js](https://www.npmjs.com/package/attach.js)                       | 10,590        |
-| [utube](https://www.npmjs.com/package/utube)                               | 9,917         |
-| [daccord-validation](https://www.npmjs.com/package/daccord-validation)     | 4,183         |
-| [angular-scriptloader](https://www.npmjs.com/package/angular-scriptloader) | 1,507         |
-| **Total**                                                                  | **3,029,884** |
+| [utube](https://www.npmjs.com/package/utube)                               | 9,934         |
+| [daccord-validation](https://www.npmjs.com/package/daccord-validation)     | 4,185         |
+| [angular-scriptloader](https://www.npmjs.com/package/angular-scriptloader) | 1,508         |
+| **Total**                                                                  | **3,031,664** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
