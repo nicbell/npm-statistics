@@ -10,17 +10,17 @@ NPM Download Statistics for NicBell Open Source Projects. Updated Daily.
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                       | Downloads     |
 | -------------------------------------------------------------------------- | ------------- |
-| **Total**                                                                  | **3,045,919** |
-| [lite-ready](https://www.npmjs.com/package/lite-ready)                     | 2,875,882     |
-| [postscss](https://www.npmjs.com/package/postscss)                         | 96,078        |
-| [grunt-shimly](https://www.npmjs.com/package/grunt-shimly)                 | 18,626        |
-| [shimly](https://www.npmjs.com/package/shimly)                             | 14,797        |
-| [parsehtml](https://www.npmjs.com/package/parsehtml)                       | 14,210        |
-| [attach.js](https://www.npmjs.com/package/attach.js)                       | 10,597        |
-| [utube](https://www.npmjs.com/package/utube)                               | 9,978         |
-| [daccord-validation](https://www.npmjs.com/package/daccord-validation)     | 4,231         |
-| [angular-scriptloader](https://www.npmjs.com/package/angular-scriptloader) | 1,520         |
-| **Total**                                                                  | **3,045,919** |
+| **Total**                                                                  | **3,047,178** |
+| [lite-ready](https://www.npmjs.com/package/lite-ready)                     | 2,877,101     |
+| [postscss](https://www.npmjs.com/package/postscss)                         | 96,103        |
+| [grunt-shimly](https://www.npmjs.com/package/grunt-shimly)                 | 18,629        |
+| [shimly](https://www.npmjs.com/package/shimly)                             | 14,801        |
+| [parsehtml](https://www.npmjs.com/package/parsehtml)                       | 14,211        |
+| [attach.js](https://www.npmjs.com/package/attach.js)                       | 10,599        |
+| [utube](https://www.npmjs.com/package/utube)                               | 9,980         |
+| [daccord-validation](https://www.npmjs.com/package/daccord-validation)     | 4,233         |
+| [angular-scriptloader](https://www.npmjs.com/package/angular-scriptloader) | 1,521         |
+| **Total**                                                                  | **3,047,178** |
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ### Wanna use `npm-statistics`?
